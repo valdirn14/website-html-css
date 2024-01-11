@@ -1,24 +1,25 @@
 body {
-	background: #d2d2d2c1 url('imagens/fundo.png');
+	background: #96c2f5c1 url('photos/background_white.png');
 	font: 16px Arial, helvetica, sans-serif;
 }
 
-#principal {
+#main {
 	width: 900px;
 }
 
 #menu {
-	background: #c5c5c5;
+	background: black;
 	padding: 15px;
 }
 
 #content {
-	background: #e8e8e8;
+	background:#add8e6;
 	padding: 15px;
 }
 
 a {
-	color: #4b5cca;
+	color: #add8e6;
+	text-shadow: 0.1em 0.1em 0.15em;
 	text-decoration: none;
 	font-weight: bold;
 	padding: 15px;
@@ -29,10 +30,16 @@ a {
 }
 
 h1 {
-	color: #828271;
+	color: rgb(18, 29, 2);
 	font-size: 16px;
 }
 
-.img-adverting_campaigns {
-	border: 10px solid #c3c3ae;
+.hobbies {
+	border: 10px solid #add8e6;
+}
+
+.contact_us_ {
+	border: 5px solid #add8e6;
+	background-color: #add8e6;
+
 }
